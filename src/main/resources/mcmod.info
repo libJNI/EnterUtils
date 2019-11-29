@@ -1,0 +1,16 @@
+[
+{
+  "modid": "entermod",
+  "name": "My Utils",
+  "description": "This description",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Enterman"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
